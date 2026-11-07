@@ -1,0 +1,47 @@
+{
+  "model": "claude-sonnet-5-5",
+  "posts_per_week": 3,
+  "max_age_days": 7,
+  "queries": [
+    "properti Indonesia",
+    "KPR suku bunga",
+    "harga rumah Bank Indonesia",
+    "rumah subsidi FLPP",
+    "pasar properti Jakarta",
+    "kebijakan perumahan PPN DTP"
+  ],
+  "extra_feeds": [],
+  "keywords": {
+    "kpr": 3,
+    "suku bunga": 3,
+    "bank indonesia": 3,
+    "harga rumah": 2,
+    "harga properti": 2,
+    "subsidi": 2,
+    "flpp": 2,
+    "ppn": 1,
+    "properti": 1,
+    "jakarta": 1
+  },
+  "banned_patterns": [
+    "pasti (disetujui|acc|lolos|untung)",
+    "dijamin",
+    "garansi",
+    "guarantee",
+    "tanpa risiko",
+    "100% aman",
+    "bunga (terendah|termurah)",
+    "cuan pasti"
+  ],
+  "competitors": ["lamudi", "olx", "pinhome", "rumah.com", "dotproperty", "urbanindo"],
+  "attribution_terms": ["Bank Indonesia", "BI", "OJK", "Kontan", "Bisnis", "Kompas", "Kabar Bursa", "Kabarbursa", "BPS", "Kementerian"],
+  "limits": {
+    "caption_words": [70, 140],
+    "hook_words_max": 8,
+    "slide_title_words_max": 6,
+    "slides": [5, 7],
+    "emoji_max": 6,
+    "hashtags": [5, 8]
+  },
+  "evergreen_numbers": ["30"]
+}

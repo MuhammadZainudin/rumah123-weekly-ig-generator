@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Survei Harga Properti Residensial Triwulan II 2026: Harga Properti Residensial Meningkat Terbatas",
+    "source": "Bank Indonesia",
+    "link": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/pages/sp_2815226.aspx",
+    "published": "2026-08-07T03:30:00+00:00",
+    "summary": "Siaran pers BI: harga properti residensial pasar primer triwulan II 2026 meningkat terbatas. Penjualan properti residensial primer membaik meski masih terkontraksi 2,36% (yoy), tidak sedalam kontraksi 25,67% (yoy) pada triwulan sebelumnya."
+  },
+  {
+    "title": "Pasar Properti Lesu, Penjualan Turun 2,36 Persen, Harga Rumah Tetap Naik",
+    "source": "Kabar Bursa",
+    "link": "https://www.kabarbursa.com/makro/pasar-properti-lesu-penjualan-turun-236-persen-harga-rumah-tetap-naik",
+    "published": "2026-08-08T02:00:00+00:00",
+    "summary": "IHPR triwulan II 2026 tumbuh 0,69% yoy ke level 110,89. KPR mendominasi 70,05% total pembelian hunian. Hambatan utama: harga bahan bangunan 27,10%, suku bunga KPR 15,96%, perizinan 14,87%, uang muka tinggi 11,53%, pajak 9,75%. Suku bunga KPR stabil di 7,44%."
+  },
+  {
+    "title": "Pasar Properti Lesu: Penjualan Turun 2,36 Persen, Harga Rumah Tetap Naik",
+    "source": "Syndicated copy (synthetic near-duplicate used to test dedupe)",
+    "link": "https://example.com/synthetic-duplicate",
+    "published": "2026-08-08T05:00:00+00:00",
+    "summary": "Same wire story republished under a slightly different headline."
+  },
+  {
+    "title": "Pertumbuhan KPR Perbankan Kian Melambat pada Pertengahan Tahun 2026",
+    "source": "Kontan",
+    "link": "https://keuangan.kontan.co.id/news/pertumbuhan-kpr-perbankan-kian-melambat-pada-pertengahan-tahun-2026",
+    "published": "2026-07-30T10:11:00+00:00",
+    "summary": "Data BI menunjukkan outstanding KPR Juni 2026 mencapai Rp852 triliun atau tumbuh 4,4% yoy."
+  },
+  {
+    "title": "BCA Expo 2026 Tawarkan Hunian Mulai Rp220 Juta dan Bunga KPR 1,23%",
+    "source": "Kontan",
+    "link": "https://keuangan.kontan.co.id/news/bca-expo-2026-tawarkan-hunian-mulai-rp-220-juta-dan-bunga-kpr-123",
+    "published": "2026-09-13T08:00:00+00:00",
+    "summary": "Promo pameran properti satu bank, berlaku hingga 31 Oktober 2026. (Single-bank promo: the curator prompt should skip this.)"
+  },
+  {
+    "title": "Sah, KPR 40 Tahun Rumah Subsidi Resmi Berlaku",
+    "source": "Kompas.com",
+    "link": "https://www.kompas.com/tag/kpr",
+    "published": "2026-08-13T04:00:00+00:00",
+    "summary": "Headline only; no article text available in the snippet. (Too thin to extract facts: the curator prompt should skip this.)"
+  }
+]
